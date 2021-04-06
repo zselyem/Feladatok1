@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KURWAANYAD\\source\\repos\\Feladatok1\\Feladatok1\\Feladatok1.csproj": {}
+    "C:\\Users\\KURWAANYAD\\Desktop\\c#\\Feladatok1\\Feladatok1\\Feladatok1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KURWAANYAD\\source\\repos\\Feladatok1\\Feladatok1\\Feladatok1.csproj": {
+    "C:\\Users\\KURWAANYAD\\Desktop\\c#\\Feladatok1\\Feladatok1\\Feladatok1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KURWAANYAD\\source\\repos\\Feladatok1\\Feladatok1\\Feladatok1.csproj",
+        "projectUniqueName": "C:\\Users\\KURWAANYAD\\Desktop\\c#\\Feladatok1\\Feladatok1\\Feladatok1.csproj",
         "projectName": "Feladatok1",
-        "projectPath": "C:\\Users\\KURWAANYAD\\source\\repos\\Feladatok1\\Feladatok1\\Feladatok1.csproj",
+        "projectPath": "C:\\Users\\KURWAANYAD\\Desktop\\c#\\Feladatok1\\Feladatok1\\Feladatok1.csproj",
         "packagesPath": "C:\\Users\\KURWAANYAD\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KURWAANYAD\\source\\repos\\Feladatok1\\Feladatok1\\obj\\",
+        "outputPath": "C:\\Users\\KURWAANYAD\\Desktop\\c#\\Feladatok1\\Feladatok1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

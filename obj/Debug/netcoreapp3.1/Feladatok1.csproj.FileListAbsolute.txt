@@ -11,3 +11,16 @@ C:\Users\KURWAANYAD\source\repos\Feladatok1\Feladatok1\bin\Debug\netcoreapp3.1\F
 C:\Users\KURWAANYAD\source\repos\Feladatok1\Feladatok1\obj\Debug\netcoreapp3.1\Feladatok1.dll
 C:\Users\KURWAANYAD\source\repos\Feladatok1\Feladatok1\obj\Debug\netcoreapp3.1\Feladatok1.pdb
 C:\Users\KURWAANYAD\source\repos\Feladatok1\Feladatok1\obj\Debug\netcoreapp3.1\Feladatok1.genruntimeconfig.cache
+C:\Users\KURWAANYAD\Desktop\c#\Feladatok1\Feladatok1\bin\Debug\netcoreapp3.1\Feladatok1.exe
+C:\Users\KURWAANYAD\Desktop\c#\Feladatok1\Feladatok1\bin\Debug\netcoreapp3.1\Feladatok1.deps.json
+C:\Users\KURWAANYAD\Desktop\c#\Feladatok1\Feladatok1\bin\Debug\netcoreapp3.1\Feladatok1.runtimeconfig.json
+C:\Users\KURWAANYAD\Desktop\c#\Feladatok1\Feladatok1\bin\Debug\netcoreapp3.1\Feladatok1.runtimeconfig.dev.json
+C:\Users\KURWAANYAD\Desktop\c#\Feladatok1\Feladatok1\bin\Debug\netcoreapp3.1\Feladatok1.dll
+C:\Users\KURWAANYAD\Desktop\c#\Feladatok1\Feladatok1\bin\Debug\netcoreapp3.1\Feladatok1.pdb
+C:\Users\KURWAANYAD\Desktop\c#\Feladatok1\Feladatok1\obj\Debug\netcoreapp3.1\Feladatok1.csprojAssemblyReference.cache
+C:\Users\KURWAANYAD\Desktop\c#\Feladatok1\Feladatok1\obj\Debug\netcoreapp3.1\Feladatok1.AssemblyInfoInputs.cache
+C:\Users\KURWAANYAD\Desktop\c#\Feladatok1\Feladatok1\obj\Debug\netcoreapp3.1\Feladatok1.AssemblyInfo.cs
+C:\Users\KURWAANYAD\Desktop\c#\Feladatok1\Feladatok1\obj\Debug\netcoreapp3.1\Feladatok1.csproj.CoreCompileInputs.cache
+C:\Users\KURWAANYAD\Desktop\c#\Feladatok1\Feladatok1\obj\Debug\netcoreapp3.1\Feladatok1.dll
+C:\Users\KURWAANYAD\Desktop\c#\Feladatok1\Feladatok1\obj\Debug\netcoreapp3.1\Feladatok1.pdb
+C:\Users\KURWAANYAD\Desktop\c#\Feladatok1\Feladatok1\obj\Debug\netcoreapp3.1\Feladatok1.genruntimeconfig.cache
